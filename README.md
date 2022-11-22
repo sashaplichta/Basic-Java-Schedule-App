@@ -13,6 +13,11 @@ In short, this application will be a "job manager" that allows a user to easily
 compare hours worked to scheduled hours for multiple jobs. It will be
 geared towards university students and others who would want to budget 
 time between different jobs/tasks.
+
+## A Quick Note
+The ScheduleApp class runs a console-based version of the app, while the 
+ScheduleUI runs a GUI version of the app.
+
 ## Functionality
 ### A way to track job hours (*projected* and *actual*)
 
